@@ -1,2 +1,2 @@
-# pythongis.org
+# pythongis.net
 Redirection purposes only.
